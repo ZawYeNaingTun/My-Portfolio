@@ -169,7 +169,9 @@ footer {
     width: 100px;
     height: 100px;
   }
-
+  .profile-container {
+    margin-top: 40px;
+  }
   .hero-content {
     flex-direction: column;
     text-align: center;
@@ -179,4 +181,5 @@ footer {
     flex-direction: column;
     gap: 15px;
   }
+
 }
